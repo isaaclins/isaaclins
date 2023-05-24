@@ -72,8 +72,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaaclins.isaaclins&right_color=darkviolet"  />
-</div>
-
+<a align="center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins"><img align="center" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fisaaclins&label=Visitors%20today%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
 ###
