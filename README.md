@@ -9,9 +9,6 @@
 ###
 
 <h2 align="center">👩‍💻  About Me</h2>
-
-###
-
 <p align="center">My name is <strong>Isaac</strong>, and I am an <strong>application developer</strong> in the first year of an apprenticeship at <strong>Swisscom</strong>.<br> I am an aspiring developer with a keen interest in cybersecurity, and I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, SQL, Batch, and JavaScript programming languages. <br>My dream job is to become a part of the Red-Team, and I am constantly working towards achieving that goal.</p>
 
 ###
