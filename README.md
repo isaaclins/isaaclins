@@ -63,13 +63,7 @@
 
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/88282fb353927763710d9e41096ee0ad/tumblr_pt1dgwnP3H1ypgm59o1_540.gif"  />
+  <br>
+  <img src="https://count.getloli.com/get/@:isaaclins?theme=rule34" alt=":isaaclins" />
 </div>
 
-<details align="center">
-  <summary>About this page:</summary>
-<a align="center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins"><img align="center" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fisaaclins&label=Visitors%20today%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
-  <a align="center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2F&label=Visitors%20lifetime%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
-  
-  
-  
-</details>
