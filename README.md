@@ -4,11 +4,12 @@
 </div>
 <hr>
 
+<div align="center"> 
+<h2 ">👩‍💻  About Me</h2>
+<p >My name is <strong>Isaac</strong>, and I am an <strong>application developer apprentice</strong> in the first year of an apprenticeship at <strong>Swisscom</strong>. I am an aspiring developer with a keen interest in cybersecurity, and I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, SQL, Batch, and JavaScript programming languages. My dream job is to become a part of the Red-Team, and I am constantly working towards achieving that goal.</p>
+<p> I also like to break things (look at my first ever commit 😉)</p>
+</div>
 
-<h2 align="center">👩‍💻  About Me</h2>
-<p align="center">My name is <strong>Isaac</strong>, and I am an <strong>application developer apprentice</strong> in the first year of an apprenticeship at <strong>Swisscom</strong>.<br> I am an aspiring developer with a keen interest in cybersecurity, and I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, SQL, Batch, and JavaScript programming languages. <br>My dream job is to become a part of the Red-Team, and I am constantly working towards achieving that goal.</p>
-
-###
 
 <h2 align="center">🛠 Language and tools</h2>
 
