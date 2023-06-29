@@ -4,11 +4,12 @@
 </div>
 <hr>
 
+<div align="center"> 
+<h2 ">👩‍💻  About Me</h2>
+<p >My name is <strong>Isaac</strong>, and I am an <strong>application developer apprentice</strong> in the first year of an apprenticeship at <strong>Swisscom</strong>. I am an aspiring developer with a keen interest in cybersecurity, and I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, SQL, Batch, and JavaScript programming languages. My dream job is to become a part of the Red-Team, and I am constantly working towards achieving that goal.</p>
+<p> I also like to break things (look at my first ever commit 😉)</p>
+</div>
 
-<h2 align="center">👩‍💻  About Me</h2>
-<p align="center">My name is <strong>Isaac</strong>, and I am an <strong>application developer apprentice</strong> in the first year of an apprenticeship at <strong>Swisscom</strong>.<br> I am an aspiring developer with a keen interest in cybersecurity, and I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, SQL, Batch, and JavaScript programming languages. <br>My dream job is to become a part of the Red-Team, and I am constantly working towards achieving that goal.</p>
-
-###
 
 <h2 align="center">🛠 Language and tools</h2>
 
@@ -63,16 +64,7 @@
 
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/88282fb353927763710d9e41096ee0ad/tumblr_pt1dgwnP3H1ypgm59o1_540.gif"  />
+  <br>
+  <img src="https://count.getloli.com/get/@:isaaclins?theme=rule34" alt=":isaaclins" />
 </div>
 
-<details align="center">
-  <summary>About this page:</summary>
-<a align="center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins"><img align="center" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fisaaclins&label=Visitors%20today%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
-  <a align="center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fisaaclins"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2F&label=Visitors%20lifetime%3A&labelColor=%230d1117&countColor=%230d1117" /></a>
-  
-  
-  
-</details>
-
-
-###
