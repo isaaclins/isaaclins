@@ -43,7 +43,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaclins&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaaclins&theme=tokyonight)
 
-
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=eliasdavidlins&count=3&width=680" alt="Spotify Recently Played" />
 
 
 </div>
@@ -58,13 +58,19 @@
   </a>
 </div>
 
-<h5 align="center">Currently Playing:</h5>
+  <div align="center">
+   
+<details> 
+<h5 align="center"> <strong>Currently Playing:</strong></h5>
+  
 
-###
 
-<div align="center">
+
   <img height="200" src="https://64.media.tumblr.com/88282fb353927763710d9e41096ee0ad/tumblr_pt1dgwnP3H1ypgm59o1_540.gif"  />
   <br>
+
+  
   <img src="https://count.getloli.com/get/@:isaaclins?theme=rule34" alt=":isaaclins" />
+  </details>
 </div>
 
