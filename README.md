@@ -43,7 +43,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaclins&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaaclins&theme=tokyonight)
 
-
+<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&cover_image=false&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=ffffff&bar_color_cover=ture" alt="spotify-github-profile">
+</a>
 
 
 </div>
@@ -63,15 +65,10 @@
 ###
 
 <div align="center">
-<hr>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=0d1117&bar_color_cover=false" alt="spotify-github-profile">
-</a>
-<hr>
 
-  <h5 align="center">Currently Playing:</h5>
   <img height="200" src="https://64.media.tumblr.com/88282fb353927763710d9e41096ee0ad/tumblr_pt1dgwnP3H1ypgm59o1_540.gif"  />
   <br>
   <img src="https://count.getloli.com/get/@:isaaclins?theme=rule34" alt=":isaaclins" />
 </div>
+
 
