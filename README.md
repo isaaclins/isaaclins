@@ -43,9 +43,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaclins&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaaclins&theme=tokyonight)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaaclins&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=eliasdavidlins&cover_image=false&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=ffffff&bar_color_cover=ture" alt="spotify-github-profile">
-</a>
+
 
 
 
@@ -60,8 +58,6 @@
   </a>
 
 
-  <br>
-  <img src="https://count.getloli.com/get/@:isaaclins?theme=rule34" alt=":isaaclins" />
 
 
 </div>
