@@ -10,7 +10,6 @@
 <p> I also like to break things (look at my first ever commit 😉)</p>
 </div>
 
-
 <h2 align="center">🛠 Language and tools</h2>
 
 ###
@@ -37,16 +36,13 @@
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
+
 <div align="center"> 
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaaclins&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaaclins&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaaclins&theme=tokyonight)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaaclins&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 
 ###
 
@@ -56,8 +52,8 @@
   <a href="mailto:isaac.lins07@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
+<br>
 
-
-
+![](https://komarev.com/ghpvc/?username=isaaclins&style=flat-square&color=333333&label=views&abbreviated=true)
 
 </div>
