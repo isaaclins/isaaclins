@@ -54,6 +54,6 @@
   </a>
 <br>
 
-![](https://komarev.com/ghpvc/?username=isaaclins&style=flat-square&color=333333&label=views&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=isaaclins&style=flat-square&color=181818&label=views&abbreviated=true)
 
 </div>
