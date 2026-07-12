@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Menlo,Consolas,monospace" width="737px" height="390px" font-size="16px">
+<rect width="737px" height="390px" fill="#fffefe" rx="15"/>
+<text fill="#1a7f37">
+<tspan x="25" y="45">        .-~~~-.</tspan>
+<tspan x="25" y="65">      .'       '.</tspan>
+<tspan x="25" y="85">     /   _   _   \</tspan>
+<tspan x="25" y="105">    |   (o) (o)   |</tspan>
+<tspan x="25" y="125">    |      ^      |</tspan>
+<tspan x="25" y="145">    |    \___/    |</tspan>
+<tspan x="25" y="165">     \           /</tspan>
+<tspan x="25" y="185">      '.       .'</tspan>
+<tspan x="25" y="205">        '-...-'</tspan>
+<tspan x="25" y="225">  PLACEHOLDER FACE</tspan>
+<tspan x="25" y="245"> paste yours here :)</tspan>
+</text>
+<text x="257" y="45" fill="#24292f" font-weight="bold">isaaclins@github</text>
+<text x="257" y="65" fill="#24292f" font-weight="bold">------------------------</text>
+<text x="257" y="85"><tspan fill="#953800">OS</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">macOS arm64</tspan></text>
+<text x="257" y="105"><tspan fill="#953800">Uptime</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">19 years, 3 months, 14 days</tspan></text>
+<text x="257" y="125"><tspan fill="#953800">Host</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">Swisscom AG · Security</tspan></text>
+<text x="257" y="145"><tspan fill="#953800">Shell</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">fish + ghostty</tspan></text>
+<text x="257" y="165"><tspan fill="#953800">Editor</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">pi coding agent</tspan></text>
+<text x="257" y="185"><tspan fill="#953800">Location</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">Zürich, Switzerland</tspan></text>
+<text x="257" y="205"><tspan fill="#953800">Blog</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">isaaclins.com</tspan></text>
+<text x="257" y="225"><tspan fill="#953800">Contact</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">contact@isaaclins.com</tspan></text>
+<text x="257" y="265"><tspan fill="#953800">Repos</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">66 public · contributed to 12</tspan></text>
+<text x="257" y="285"><tspan fill="#953800">Commits</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">2,909</tspan></text>
+<text x="257" y="305"><tspan fill="#953800">Stars</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">48</tspan></text>
+<text x="257" y="325"><tspan fill="#953800">Followers</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">35</tspan></text>
+<text x="257" y="365" fill="#24292f" font-weight="bold">generated 2026-07-12 13:42 UTC</text>
+</svg>
